@@ -1,3 +1,5 @@
+'use strict';
+
 window.renderStatistics = function (ctx, names, times) {
     var RECT_X = 100,
         RECT_Y = 10,
